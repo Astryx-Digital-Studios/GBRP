@@ -1,9 +1,9 @@
 # The Great British Railway Project – Recruitment Marking Scheme
-> For application reviewers
-> Version 1.1, April 9th, 2025
-> Purpose: To fairly and consistently evaluate applicants for GBRP roles.
-> This document provides the **standard marking scheme** for reviewing **GBRP applications**. It includes the **expected answers**, **point allocations**, and **criteria for evaluation.**
-> Submit reviewed scores here: https://forms.office.com/r/LZkVKgiRhX
+> - For application reviewers
+> - Version 1.1, April 9th, 2025
+> - Purpose: To fairly and consistently evaluate applicants for GBRP roles.
+> - This document provides the **standard marking scheme** for reviewing **GBRP applications**. It includes the **expected answers**, **point allocations**, and **criteria for evaluation.**
+> - Submit reviewed scores here: https://forms.office.com/r/LZkVKgiRhX
 ---
 ## **Application Markscheme Overview**
 
