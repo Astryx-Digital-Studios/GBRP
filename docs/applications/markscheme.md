@@ -186,6 +186,11 @@ Scoring Tips:
 | **Total Score**          | 26 / 30| Recommend: Scripting + Modelling Team Trial                           |
 
 ---
+## **Section 8: Sign off** *(No points – for reference only)*
+
+This section is used for the applicant to sign of the application. The **reviewer** has the duty to sign off with their own Discord Username, or if not applicable, then with their own full name, and add the date of the review, and the date of submission.
+
+---
 ##  **Final Notes**:
 
 - **Score Range Guidance**:
